@@ -20,7 +20,10 @@ Sou desenvolvedor apaixonado por tecnologia, café e resolver problemas com cód
 - 🔭 Atualmente trabalhando no **Labiocad da UFPA** como desenvolvedor backend.
 - 🌱 Estudando: Python, Django, SQL, C++ e containers com Docker
 - 💬 Me pergunte sobre: desenvolvimento web, APIs, C++, documentação com Swagger e automações com Docker
-- 📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/seunome) | [E-mail](mailto:seu@email.com)
+- 📫 Como me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-leonardo-633845363)
+
 
 ---
 

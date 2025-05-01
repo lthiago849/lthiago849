@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 Sou desenvolvedor apaixonado por tecnologia, café e resolver problemas com código ☕💻
 
 - 🔭 Atualmente trabalhando em: [Meu projeto legal](https://github.com/seuusuario/projeto)
-- 🌱 Estudando: Python, Django, SQL e containers com Docker
-- 💬 Me pergunte sobre: desenvolvimento web, APIs, documentação com Swagger e automações com Docker
+- 🌱 Estudando: Python, Django, SQL, C++ e containers com Docker
+- 💬 Me pergunte sobre: desenvolvimento web, APIs, C++, documentação com Swagger e automações com Docker
 - 📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/seunome) | [E-mail](mailto:seu@email.com)
 
 ---
@@ -27,6 +28,7 @@ Sou desenvolvedor apaixonado por tecnologia, café e resolver problemas com cód
 ## 🚀 Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
